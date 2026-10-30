@@ -1,0 +1,12 @@
+# KiCad temporary files
+*-backups/
+*.lck
+*.kicad_prl
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
